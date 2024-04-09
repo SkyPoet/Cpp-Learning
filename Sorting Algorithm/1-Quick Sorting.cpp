@@ -1,4 +1,3 @@
-```
 /*
 	input:
 		arr[]:	array
@@ -42,4 +41,3 @@ void quickSort(int arr[], int left, int right){
 	}
 	quickSort(arr, left, j), quickSort(arr, j + 1, right);
 }
-```
